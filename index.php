@@ -10,6 +10,7 @@
 <article>
     <h2><?php the_title(); ?></h2>
     <div><?php the_content(); ?></div>
+    <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
 </article>
 <?php endwhile; endif; ?>
 
