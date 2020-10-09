@@ -7,8 +7,6 @@
 	<!-- <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/style.css" type="text/css"> -->
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css" type="text/css" />
 	<?php wp_head()?>
-
-	<title>Document</title>
 </head>
 
 <body>
