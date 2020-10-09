@@ -1,22 +1,2 @@
 /*Theme name : Incroyable
 Author : Camelia Siong*/
-
-nav {
-	margin-right: auto;
-	justify-content : flex-end;
-	margin-top: auto;
-	margin-bottom: auto;
-}
-
-a {
-	text-decoration: none;
-	text-transform: uppercase;
-	color: #ffffff;
-	font-size: 0.8em;
-	font-family: lato sans-serif;
-}
-
-body {
-	background-color: blue;
-	color: #000000;
-}
