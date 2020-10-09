@@ -12,6 +12,6 @@
     <div><?php the_content(); ?></div>
 </article>
 <?php endwhile; endif; ?>
-
+<p> <?php comments_number(); ?> </p>
 <!-- FOOTER -->
 <?php get_footer()?>
